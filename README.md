@@ -25,7 +25,7 @@ You can also run all benchmarks by running: `make circuit_benches DEGREE=18`.
 Circuit Benchmark Results are accessible here: https://grafana.zkevm-testnet.org/d/vofy8DAVz/circuit-benchmarks?orgId=1
 
 - circuit_benchmarks panel displays:
-    - overall test result
+    - overall test results
     - timers and system statistics
     - url for downloading prover log and sys stat files
     - clickable sysstats_url element that loads the memory and cpu utilization profiles for the given test
